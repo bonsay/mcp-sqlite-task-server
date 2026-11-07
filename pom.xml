@@ -10,6 +10,13 @@
     <name>MCP SQLite Task Server</name>
     <description>Model Context Protocol server exposing a SQLite task manager to AI agents over stdio.</description>
 
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>https://opensource.org/licenses/MIT</url>
+        </license>
+    </licenses>
+
     <properties>
         <maven.compiler.release>21</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

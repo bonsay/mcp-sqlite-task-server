@@ -49,3 +49,7 @@ Then ask: *"Add a high-priority task to renew my passport by March 1st, then sho
 
 ## Extending
 Implement `McpTool` and register it in `TaskTools.registerAll`. `McpServer` has no transport code (it maps a message string to an optional response string), so you can add an HTTP transport alongside stdio without changing it.
+
+## License
+
+[MIT](LICENSE)
